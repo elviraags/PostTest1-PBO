@@ -1,4 +1,4 @@
-**Sistem Manajemen Pasien Klinik Gigi**
+ **Sistem Manajemen Pasien Klinik Gigi**
 
 <img width="594" height="169" alt="image" src="https://github.com/user-attachments/assets/d32d7d97-a46f-4603-b463-d0456ad924b0" />
 
