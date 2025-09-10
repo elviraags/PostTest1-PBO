@@ -63,6 +63,7 @@ Konfirmasi "Pasien berhasil dihapus!".
 disini diminta untuk memilih menu, saya memilih meni 1 untuk menambahkan data pasien, dengan meminta untuk measukkan nama, umur, dan pilihan layanan, kemudian paisen berhasil di tambahkan
 
 <img width="524" height="246" alt="image" src="https://github.com/user-attachments/assets/b4aee733-f6fe-4253-90e2-ae36656b3676" />
+
 memilih menu nomor 2 untuk melihat data pasien yang terdaftar
 
 <img width="513" height="256" alt="image" src="https://github.com/user-attachments/assets/53dcb3fc-267d-4672-88f7-2c5a93004ea2" />
@@ -70,4 +71,5 @@ memilih menu nomor 2 untuk melihat data pasien yang terdaftar
 memilih menu no 3 untuk mengubah data pasien juka ada kesalahan input data, diminta untuk memasukkan ulangn nama, umur, dan layanan
 
 <img width="528" height="494" alt="image" src="https://github.com/user-attachments/assets/54a8bf28-6b61-4095-89ca-416192e39530" />
+
 memilih menu no 4 untuk menghapus data pasien jika di perlukan.
