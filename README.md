@@ -12,15 +12,18 @@ Pasien adalah class khusus untuk menyimpan data pasien.
 merupakan atribut dari pasien yang berisi nama, umur, dan layanan
 
 **Pasien(String nama, int umur, String layanan) {**
+
 Ini adalah method khusus yang dipanggil saat objek dibuat dan data akan dikirim saat bikin pasien baru.
 
 **static String pilihLayanan(Scanner scanner)**
+
 static method ini bisa dipanggil langsung tanpa membuat object.
 String nilai yang dikembalikan adalah teks yang di buat sebelumnya seperti Tambal Gigi, Cabut Gigi, scaling, dan kontrol behel
 pilihLayanan adalah nama methodnya
 penggunaan Scanner scanner untuk menerima parameter scanner supaya bisa membaca input user.
 
 **Menggunakan switch expression untuk memilih layanan**
+
 Kalau user pilih 1 return "Tambal Gigi".
 Kalau pilih 2 return "Cabut Gigi".
 Kalau pilih 3 return "Scaling".
