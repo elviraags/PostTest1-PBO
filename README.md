@@ -1,4 +1,4 @@
-Sistem Manajemen Pasien Klinik Gigi
+**Sistem Manajemen Pasien Klinik Gigi**
 
 <img width="594" height="169" alt="image" src="https://github.com/user-attachments/assets/d32d7d97-a46f-4603-b463-d0456ad924b0" />
 
@@ -8,6 +8,7 @@ SistemManajemenPasienKlinikGigi adalah class utama atau program inti
 Pasien adalah class khusus untuk menyimpan data pasien.
 
 <img width="730" height="307" alt="image" src="https://github.com/user-attachments/assets/941c8140-f28d-41e9-bdf2-384b0369485d" />
+
 merupakan atribut dari pasien yang berisi nama, umur, dan layanan
 
 **Pasien(String nama, int umur, String layanan) {**
@@ -52,5 +53,20 @@ Menampilkan daftar pasien dulu, kemudian user pilih nomor pasien yang mau diubah
 Data di-replace dengan daftarPasien.set(index, new Pasien(...)). Konfirmasi "Data pasien berhasil diubah!".
 
 <img width="885" height="616" alt="image" src="https://github.com/user-attachments/assets/333015c0-0f29-4b10-8598-75a9c474e8ba" />
+
 Menampilkan daftar pasien. kemudian user pilih nomor pasien yang mau dihapus. Kalau nomor valid hapus dengan daftarPasien.remove(index).
 Konfirmasi "Pasien berhasil dihapus!".
+
+<img width="475" height="419" alt="image" src="https://github.com/user-attachments/assets/8facb08d-4d38-44fd-9ebc-37c2b2c4d440" />
+
+disini diminta untuk memilih menu, saya memilih meni 1 untuk menambahkan data pasien, dengan meminta untuk measukkan nama, umur, dan pilihan layanan, kemudian paisen berhasil di tambahkan
+
+<img width="524" height="246" alt="image" src="https://github.com/user-attachments/assets/b4aee733-f6fe-4253-90e2-ae36656b3676" />
+memilih menu nomor 2 untuk melihat data pasien yang terdaftar
+
+<img width="513" height="256" alt="image" src="https://github.com/user-attachments/assets/53dcb3fc-267d-4672-88f7-2c5a93004ea2" />
+
+memilih menu no 3 untuk mengubah data pasien juka ada kesalahan input data, diminta untuk memasukkan ulangn nama, umur, dan layanan
+
+<img width="528" height="494" alt="image" src="https://github.com/user-attachments/assets/54a8bf28-6b61-4095-89ca-416192e39530" />
+memilih menu no 4 untuk menghapus data pasien jika di perlukan.
